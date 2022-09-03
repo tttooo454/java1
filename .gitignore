@@ -1,3 +1,5 @@
 .idea/
 itGit.iml
 untitled104.iml
+*.DS_STORE
+bin/
